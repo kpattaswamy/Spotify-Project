@@ -1,11 +1,11 @@
-import spotipy #Run 'pip install spotipy' in console to get the library
-import pandas as pd #Run 'pip install pandas' in console to get the library
+import spotipy 
+import pandas as pd 
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
 
-cid = "af573b650bf24522a598296e6af7bcac"
-secret = "edc3fe82e3394a43bed020d3adcc209f"
-playlist_id = "spotify:playlist:1zgNyAPOacbjarQP1Q7ZZL"
+cid = " "
+secret = ""
+playlist_id = " "
 
 creator = "kartik"
 
